@@ -89,7 +89,7 @@ const ModalTitle = ({ children, className, ...props }) => {
 
 const ModalContent = ({ children, className, ...props }) => {
   return (
-    <div className={cn("p-6", className)} {...props}>
+    <div className={cn("p-6 overflow-y-auto flex-1", className)} {...props}>
       {children}
     </div>
   );
@@ -99,7 +99,7 @@ const ModalFooter = ({ children, className, ...props }) => {
   return (
     <div
       className={cn(
-        "flex items-center justify-end gap-3 p-6 border-t border-gray-200 bg-white rounded-b-xl relative z-10",
+        "flex items-center justify-end gap-3 p-6 border-t border-gray-200 bg-white rounded-b-xl relative z-10 flex-shrink-0",
         className
       )}
       {...props}

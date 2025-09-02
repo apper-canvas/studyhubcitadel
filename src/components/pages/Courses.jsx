@@ -199,14 +199,14 @@ const Courses = () => {
       )}
 
       {/* Add/Edit Course Modal */}
-      <Modal isOpen={showModal} onClose={handleCloseModal} size="md">
+<Modal isOpen={showModal} onClose={handleCloseModal} size="md">
         <Modal.Header onClose={handleCloseModal}>
           <Modal.Title>
             {editingCourse ? "Edit Course" : "Add New Course"}
           </Modal.Title>
         </Modal.Header>
 
-        <form onSubmit={handleSubmit}>
+        <form onSubmit={handleSubmit} className="flex flex-col h-full max-h-[80vh]">
           <Modal.Content>
             <div className="space-y-4">
               <Input
@@ -277,7 +277,7 @@ const Courses = () => {
               </div>
             </div>
           </Modal.Content>
-<Modal.Footer className="flex items-center justify-end gap-3 p-6 bg-white border-t border-gray-200">
+<Modal.Footer className="flex items-center justify-end gap-3 p-6 bg-white border-t border-gray-200 mt-auto">
             <Button
               type="button"
               variant="outline"
