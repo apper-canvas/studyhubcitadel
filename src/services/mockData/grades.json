@@ -1,0 +1,138 @@
+[
+  {
+    "Id": 1,
+    "courseId": 1,
+    "assignmentName": "Midterm Exam",
+    "score": 85,
+    "weight": 200,
+    "category": "exam"
+  },
+  {
+    "Id": 2,
+    "courseId": 1,
+    "assignmentName": "Psychology Quiz #1",
+    "score": 92,
+    "weight": 50,
+    "category": "quiz"
+  },
+  {
+    "Id": 3,
+    "courseId": 1,
+    "assignmentName": "Psychology Quiz #2",
+    "score": 88,
+    "weight": 50,
+    "category": "quiz"
+  },
+  {
+    "Id": 4,
+    "courseId": 1,
+    "assignmentName": "Case Study Report",
+    "score": 90,
+    "weight": 150,
+    "category": "assignment"
+  },
+  {
+    "Id": 5,
+    "courseId": 2,
+    "assignmentName": "Calculus Midterm",
+    "score": 94,
+    "weight": 250,
+    "category": "exam"
+  },
+  {
+    "Id": 6,
+    "courseId": 2,
+    "assignmentName": "Problem Set #5",
+    "score": 88,
+    "weight": 100,
+    "category": "assignment"
+  },
+  {
+    "Id": 7,
+    "courseId": 2,
+    "assignmentName": "Problem Set #6",
+    "score": 95,
+    "weight": 100,
+    "category": "assignment"
+  },
+  {
+    "Id": 8,
+    "courseId": 2,
+    "assignmentName": "Problem Set #7",
+    "score": 91,
+    "weight": 100,
+    "category": "assignment"
+  },
+  {
+    "Id": 9,
+    "courseId": 3,
+    "assignmentName": "Essay #1",
+    "score": 87,
+    "weight": 150,
+    "category": "assignment"
+  },
+  {
+    "Id": 10,
+    "courseId": 3,
+    "assignmentName": "Grammar Test",
+    "score": 93,
+    "weight": 100,
+    "category": "quiz"
+  },
+  {
+    "Id": 11,
+    "courseId": 3,
+    "assignmentName": "Essay #2",
+    "score": 89,
+    "weight": 150,
+    "category": "assignment"
+  },
+  {
+    "Id": 12,
+    "courseId": 4,
+    "assignmentName": "Lab Practical #1",
+    "score": 98,
+    "weight": 200,
+    "category": "exam"
+  },
+  {
+    "Id": 13,
+    "courseId": 4,
+    "assignmentName": "Lab Report #1",
+    "score": 95,
+    "weight": 100,
+    "category": "assignment"
+  },
+  {
+    "Id": 14,
+    "courseId": 4,
+    "assignmentName": "Lab Report #2",
+    "score": 92,
+    "weight": 100,
+    "category": "assignment"
+  },
+  {
+    "Id": 15,
+    "courseId": 5,
+    "assignmentName": "Art History Midterm",
+    "score": 89,
+    "weight": 200,
+    "category": "exam"
+  },
+  {
+    "Id": 16,
+    "courseId": 5,
+    "assignmentName": "Museum Visit Report",
+    "score": 95,
+    "weight": 150,
+    "category": "assignment"
+  },
+  {
+    "Id": 17,
+    "courseId": 5,
+    "assignmentName": "Art Analysis Paper",
+    "score": 91,
+    "weight": 150,
+    "category": "assignment"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "Id": 1,
+    "name": "Introduction to Psychology",
+    "instructor": "Dr. Sarah Johnson",
+    "location": "Psychology Building, Room 201",
+    "credits": 3,
+    "color": "#2563eb",
+    "semester": "Fall 2024",
+    "currentGrade": 87,
+    "schedule": [
+      {
+        "dayOfWeek": "Monday",
+        "startTime": "09:00",
+        "endTime": "10:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "startTime": "09:00",
+        "endTime": "10:30"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "name": "Calculus I",
+    "instructor": "Prof. Michael Chen",
+    "location": "Mathematics Hall, Room 105",
+    "credits": 4,
+    "color": "#7c3aed",
+    "semester": "Fall 2024",
+    "currentGrade": 92,
+    "schedule": [
+      {
+        "dayOfWeek": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:15"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:15"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "name": "English Composition",
+    "instructor": "Dr. Emily Rodriguez",
+    "location": "Liberal Arts Building, Room 302",
+    "credits": 3,
+    "color": "#dc2626",
+    "semester": "Fall 2024",
+    "currentGrade": 89,
+    "schedule": [
+      {
+        "dayOfWeek": "Monday",
+        "startTime": "14:00",
+        "endTime": "15:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "startTime": "14:00",
+        "endTime": "15:30"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "name": "Biology Lab",
+    "instructor": "Dr. James Wilson",
+    "location": "Science Center, Lab B-12",
+    "credits": 1,
+    "color": "#059669",
+    "semester": "Fall 2024",
+    "currentGrade": 95,
+    "schedule": [
+      {
+        "dayOfWeek": "Friday",
+        "startTime": "13:00",
+        "endTime": "16:00"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "name": "History of Art",
+    "instructor": "Prof. Lisa Anderson",
+    "location": "Art Building, Room 210",
+    "credits": 3,
+    "color": "#d97706",
+    "semester": "Fall 2024",
+    "currentGrade": 91,
+    "schedule": [
+      {
+        "dayOfWeek": "Tuesday",
+        "startTime": "15:30",
+        "endTime": "17:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "startTime": "15:30",
+        "endTime": "17:00"
+      }
+    ]
+  }
+]

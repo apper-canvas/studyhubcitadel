@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "title": "Research Paper on Cognitive Development",
+    "courseId": 1,
+    "dueDate": "2024-12-15T23:59:00.000Z",
+    "priority": "high",
+    "status": "in-progress",
+    "description": "Write a 10-page research paper on cognitive development theories",
+    "grade": null
+  },
+  {
+    "Id": 2,
+    "title": "Calculus Problem Set #8",
+    "courseId": 2,
+    "dueDate": "2024-12-12T23:59:00.000Z",
+    "priority": "medium",
+    "status": "todo",
+    "description": "Complete problems 1-25 from Chapter 8",
+    "grade": null
+  },
+  {
+    "Id": 3,
+    "title": "Poetry Analysis Essay",
+    "courseId": 3,
+    "dueDate": "2024-12-18T23:59:00.000Z",
+    "priority": "high",
+    "status": "todo",
+    "description": "Analyze three poems by Robert Frost",
+    "grade": null
+  },
+  {
+    "Id": 4,
+    "title": "Lab Report: Cell Division",
+    "courseId": 4,
+    "dueDate": "2024-12-10T23:59:00.000Z",
+    "priority": "medium",
+    "status": "completed",
+    "description": "Document and analyze cell division observations",
+    "grade": 95
+  },
+  {
+    "Id": 5,
+    "title": "Renaissance Art Presentation",
+    "courseId": 5,
+    "dueDate": "2024-12-20T23:59:00.000Z",
+    "priority": "high",
+    "status": "todo",
+    "description": "15-minute presentation on Renaissance masters",
+    "grade": null
+  },
+  {
+    "Id": 6,
+    "title": "Psychology Quiz #3",
+    "courseId": 1,
+    "dueDate": "2024-12-11T09:00:00.000Z",
+    "priority": "medium",
+    "status": "completed",
+    "description": "Quiz covering chapters 5-7",
+    "grade": 88
+  },
+  {
+    "Id": 7,
+    "title": "Derivative Practice Problems",
+    "courseId": 2,
+    "dueDate": "2024-12-13T23:59:00.000Z",
+    "priority": "low",
+    "status": "todo",
+    "description": "Additional practice for upcoming midterm",
+    "grade": null
+  },
+  {
+    "Id": 8,
+    "title": "Grammar Exercise Set",
+    "courseId": 3,
+    "dueDate": "2024-12-14T23:59:00.000Z",
+    "priority": "low",
+    "status": "in-progress",
+    "description": "Complete grammar exercises 1-50",
+    "grade": null
+  },
+  {
+    "Id": 9,
+    "title": "Microscopy Lab Report",
+    "courseId": 4,
+    "dueDate": "2024-12-17T23:59:00.000Z",
+    "priority": "medium",
+    "status": "todo",
+    "description": "Analysis of bacterial samples under microscope",
+    "grade": null
+  },
+  {
+    "Id": 10,
+    "title": "Baroque Period Essay",
+    "courseId": 5,
+    "dueDate": "2024-12-16T23:59:00.000Z",
+    "priority": "high",
+    "status": "in-progress",
+    "description": "Compare and contrast Baroque and Renaissance art styles",
+    "grade": null
+  }
+]
