@@ -98,7 +98,10 @@ const ModalContent = ({ children, className, ...props }) => {
 const ModalFooter = ({ children, className, ...props }) => {
   return (
     <div
-      className={cn("flex items-center justify-end gap-3 p-6 border-t bg-gray-50/50 rounded-b-xl", className)}
+      className={cn(
+        "flex items-center justify-end gap-3 p-6 border-t border-gray-200 bg-white rounded-b-xl relative z-10",
+        className
+      )}
       {...props}
     >
       {children}

@@ -277,20 +277,20 @@ const Courses = () => {
               </div>
             </div>
           </Modal.Content>
-
-          <Modal.Footer>
+<Modal.Footer className="flex items-center justify-end gap-3 p-6 bg-white border-t border-gray-200">
             <Button
               type="button"
               variant="outline"
               onClick={handleCloseModal}
               disabled={isSubmitting}
+              className="min-w-[100px]"
             >
               Cancel
             </Button>
             <Button
               type="submit"
               disabled={isSubmitting}
-              className="flex items-center gap-2"
+              className="flex items-center gap-2 min-w-[140px] bg-primary-600 hover:bg-primary-700"
             >
               {isSubmitting ? (
                 <>
